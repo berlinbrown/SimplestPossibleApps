@@ -1,6 +1,6 @@
 /**
  * Open Source
- * Berlin
+ * Berlin -- Test
  */
 public class ConnectMain {
   public static void main(final String [] args) {
